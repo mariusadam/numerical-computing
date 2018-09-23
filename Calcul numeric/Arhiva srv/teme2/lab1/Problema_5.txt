@@ -1,0 +1,12 @@
+taylor(ln(1+x), x = 0, 9);
+apln := convert(%, polynom);
+eval(apln, x = 1);
+evalf(%);
+evalf(ln(2));
+
+solve(1/(n+1) < 0.1e-4)
+
+taylor(ln((1+x)/(1-x)),x=0,16);
+apln := convert(%, polynom)
+eval(apln, x = 1/3)
+evalf(%)

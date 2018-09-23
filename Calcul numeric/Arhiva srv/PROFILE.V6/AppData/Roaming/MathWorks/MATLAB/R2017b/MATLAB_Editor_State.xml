@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Editor version="1.0">
+   <File absPath="U:\lab1" lastWrittenTime="1520417575665" name="f1.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="U:\lab2" lastWrittenTime="1521023817272" name="myeps.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="U:\lab2" lastWrittenTime="1521023819976" name="myeps2.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="U:\lab2" lastWrittenTime="1521023821507" name="myrealmax.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="U:\lab2" lastWrittenTime="1521023822273" name="myrealmin.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="U:\lab2" lastWrittenTime="1521023823445" name="num2bin.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="U:\lab2" lastWrittenTime="1521023824492" name="sintaylor.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="U:\lab 5" lastWrittenTime="1522228513445" name="test2_1.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="U:\lab4" lastWrittenTime="1522228979172" name="lup.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="U:\lab4" lastWrittenTime="1522228981036" name="forwardSubstitution.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="U:\lab4" lastWrittenTime="1522228984221" name="test_prob2.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="U:\lab2" lastWrittenTime="1522228986708" name="cond_nr.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="U:\lab2" lastWrittenTime="1524043039617" name="recdir.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="U:\lab2" lastWrittenTime="1524043040448" name="prob3lab3.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="U:\lab2" lastWrittenTime="1524043041051" name="err_rel_i.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="U:\lab2" lastWrittenTime="1524043041728" name="recinv.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="U:\lab4" lastWrittenTime="1524043042231" name="termeni.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="U:\lab2" lastWrittenTime="1524043042722" name="fun1.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="U:\lab2" lastWrittenTime="1524043043211" name="fun2.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="U:\lab6" lastWrittenTime="1524043044228" name="p1.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="U:\lab6" lastWrittenTime="1524043044716" name="p2.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="U:\lab7" lastWrittenTime="1524647758413" name="hermitRungeCeb2.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="U:\lab7" lastWrittenTime="1524650790073" name="ex1Newton.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="U:\lab8\test" lastWrittenTime="1524650790277" name="generateMatrix.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="U:\lab7" lastWrittenTime="1524650790322" name="newtonRungeeg.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="U:\lab7" lastWrittenTime="1524650790339" name="NewtonRungeCeb2.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="U:\lab7" lastWrittenTime="1524650790356" name="ex2.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="U:\lab2" lastWrittenTime="1524650790372" name="hermitRunge.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="U:\lab7\test" lastWrittenTime="1524650790390" name="t1.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="U:\lab7\test" lastWrittenTime="1524650790406" name="Cholesky.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="U:\lab7\test" lastWrittenTime="1524650790423" name="t2.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="U:\lab2" lastWrittenTime="1524650831630" name="costaylor.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="U:\lab10\test" lastWrittenTime="1525860060197" name="testSpline.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="U:\lab9" lastWrittenTime="1525862442379" name="mcmmpd.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="U:\lab9" lastWrittenTime="1525862442393" name="prob4mcmmpd.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="U:\lab9" lastWrittenTime="1525862442406" name="pAsteroid.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="U:\lab9" lastWrittenTime="1525862442419" name="prob3Masuratoare.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="U:\lab10\test" lastWrittenTime="1525862442448" name="test1.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="U:\lab10\test" lastWrittenTime="1525862442463" name="ceb_nodes1.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="U:\lab10\test" lastWrittenTime="1525862442476" name="f2.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="U:\lab11" lastWrittenTime="1526468269806" name="integrale.m">
+      <CodeFolds version="1.0"/>
+   </File>
+</Editor>

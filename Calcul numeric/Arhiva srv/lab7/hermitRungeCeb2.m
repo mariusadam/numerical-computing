@@ -1,0 +1,12 @@
+f=@(x) 1./(1+25*x.^2);
+fd = @(x) -50*x./(1+25*x.^2).^2;
+m=60;
+%x=linspace(-1,1,m+1);
+k=0:m;
+x=sort(cos(k*pi/m));
+y=f(x);
+yd=fd(x);
+t=linspace(-1,1,10000);
+[z,TD]=difdivnd(x,y,yd);
+vpi=pNewton(TD,z,t);
+plot(x,y,'o',t,vpi,t,f(t));

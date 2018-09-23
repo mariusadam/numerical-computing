@@ -1,0 +1,7 @@
+plot(exp(x), x = 0 .. 5)
+plot(taylor(exp(x), x = 0, 5), x = 0 .. 5)
+da
+
+plot(ln(1+x), x = 0 .. 5)
+plot(taylor(ln(1+x), x = 0, 3), x = 0 .. 5)
+nu

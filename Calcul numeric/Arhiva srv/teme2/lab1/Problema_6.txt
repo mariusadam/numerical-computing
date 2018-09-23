@@ -1,0 +1,10 @@
+taylor(arctan(x), x = 0, 61260); 30630
+alpn := convert(%, polynom);
+eval(alpn, x = 1);
+evalf(%);
+                          0.7853900015
+evalf(arctan((1/4)*Pi));
+                          0.6657737501
+evalf((1/4)*Pi);
+                          0.7853981635
+solve(arctan(x) = (1/4)*Pi);

@@ -1,0 +1,13 @@
+f=@(x) 1./(1+x.^2);
+m=11;
+x=linspace(-5,5,m+1);
+y=f(x);
+t=linspace(-5,5,2000);
+v11=lagr(x,y,t);
+m=16;
+x=linspace(-5,5,m+1);
+y=f(x);
+v16=lagr(x,y,t);
+plot(t,f(t),t,v11,t,v16);
+plot(t,f(t),t,v11,t,v16);
+ylim([-5,2]);

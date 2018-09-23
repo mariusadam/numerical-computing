@@ -1,0 +1,4 @@
+[0404/115856.075:ERROR:rankings.cc(786)] Inconsistent LRU.
+[0404/115856.075:ERROR:backend_impl.cc(1033)] Critical error found -8
+[0404/115856.075:ERROR:entry_impl.cc(1039)] No file for c1030016
+[0404/115856.075:ERROR:entry_impl.cc(1039)] No file for c1030012

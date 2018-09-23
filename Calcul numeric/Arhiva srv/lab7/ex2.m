@@ -1,0 +1,10 @@
+f=@(x)tanh(x);
+fd=@(x)1./cosh(x).^2;
+x=-2:3;
+y=f(x);
+yd=fd(x);
+t=linspace(-2,3,200);
+[z,TD]=difdivnd(x,y,yd);
+vpi=pNewton(TD,z,t);
+plot(x,y,'o',t,vpi,t,f(t));
+t23=pNewton(TD,z,2/3);

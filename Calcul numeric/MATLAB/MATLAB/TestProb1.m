@@ -1,0 +1,11 @@
+n=100;
+A=generateA(n);
+b=generateB(n);
+[L,U,P]=lup(A);
+y=forwardsubst(L,P*b);
+x=backsubst(U,y);
+err=norm(x-ones(n,1))/norm(ones(n,1))
+R=Cholesky(A);
+y2=forwardsubst(R',b);
+x2=backsubst(R,y2);
+err2=norm(x2-ones(n,1))/norm(ones(n,1))

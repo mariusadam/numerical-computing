@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="utf-8"?>
+<history>
+<session>
+<command time_stamp="161dbf41053">%-- 2/28/2018 1:27 PM --%</command>
+<command error="true" execution_time="547">taylor()</command>
+<command error="true" execution_time="80">taylor(sin x, x=0, 10)</command>
+<command error="true" execution_time="37" repeat="2">taylor(sin(x), x=0, 10)</command>
+<command error="true" execution_time="32">taylor(sin(x), x:=0, 10)</command>
+<command error="true" execution_time="32">taylor(sin(x), x=0, 10)</command>
+<command error="true" execution_time="9128" repeat="3">f1</command>
+</session>
+<session>
+<command time_stamp="161fff035d6">%-- 3/7/2018 1:09 PM --%</command>
+<command execution_time="15" repeat="2">f1</command>
+</session>
+<session>
+<command time_stamp="161fff0523d">%-- 3/7/2018 1:09 PM --%</command>
+<command batch="1">f1</command>
+<command batch="1" execution_time="2529">f1</command>
+<command execution_time="6">eps();</command>
+<command execution_time="64">format long</command>
+<command execution_time="7">eps</command>
+<command execution_time="8">eps(10)</command>
+<command execution_time="8">10 + eps(10)</command>
+<command execution_time="8">eps('single');</command>
+<command execution_time="14">eps('single')</command>
+<command error="true" execution_time="631">u</command>
+<command execution_time="9">realmax</command>
+<command execution_time="21">realmin</command>
+<command execution_time="68">realmax('single')</command>
+<command execution_time="8">realmin/2</command>
+<command execution_time="9">realmax*2</command>
+<command execution_time="8">isinf(realmax*2)</command>
+<command execution_time="9">isinf(realmax)</command>
+<command execution_time="9">isnan(0/0)</command>
+<command execution_time="8">realmin/2</command>
+<command execution_time="8">realmin/100</command>
+<command execution_time="8">realmin/1000000</command>
+<command execution_time="8">realmin/1000000000000000</command>
+<command execution_time="18">realmin/realmax</command>
+<command execution_time="8">eps*realmin</command>
+<command execution_time="7">ans/2</command>
+<command error="true" execution_time="23">format lex\</command>
+<command error="true" execution_time="72">format lex</command>
+<command execution_time="8">format hex</command>
+<command execution_time="7">1</command>
+<command execution_time="15">single(1)</command>
+<command execution_time="8">eps</command>
+<command execution_time="58">hex2num('3bc') - 1023</command>
+<command execution_time="9">format long</command>
+<command execution_time="13">hex2num('3bc') - 1023</command>
+<command execution_time="7">hex2num('3bc')</command>
+<command execution_time="472">bin2dec('001111001011')</command>
+<command error="true" execution_time="316">anx - 123</command>
+<command execution_time="9">ans - 123</command>
+<command execution_time="7">971 - 1023</command>
+<command execution_time="8">format hex</command>
+<command execution_time="6">realmax</command>
+<command execution_time="8">format long</command>
+<command execution_time="8">realmax</command>
+<command execution_time="7">(2-eps)*2*1023</command>
+<command execution_time="7">(2-eps)*2^1023</command>
+<command execution_time="9">format hex</command>
+<command execution_time="10">(2-eps)*2^1023</command>
+<command execution_time="7">realmin</command>
+<command execution_time="7">eps*realmin</command>
+<command execution_time="10">Inf</command>
+<command execution_time="7">-Inf</command>
+<command execution_time="8">0/0</command>
+<command execution_time="7">Inf/Inf</command>
+<command execution_time="10">Inf*Inf</command>
+<command execution_time="8">Inf-Inf</command>
+<command execution_time="8">1&amp;Inf</command>
+<command execution_time="7">1^Inf</command>
+<command execution_time="7">2^-52</command>
+<command execution_time="7">format long</command>
+<command execution_time="8">2^-52</command>
+<command execution_time="8">eps</command>
+<command execution_time="6" repeat="2">myeps</command>
+<command execution_time="8">eps</command>
+<command execution_time="11" repeat="2">myeps</command>
+<command batch="2">x=4/3 - 1;</command>
+<command batch="2">y = 3*x;</command>
+<command batch="2" execution_time="15">z = 1-x;</command>
+<command batch="3">x=4/3 - 1</command>
+<command batch="3">y = 3*x</command>
+<command batch="3" execution_time="21">z = 1-x</command>
+<command execution_time="23">myeps2</command>
+<command execution_time="32" repeat="3">myrealmax</command>
+<command execution_time="7">realmax</command>
+<command execution_time="26">myrealmin</command>
+<command execution_time="7">realmin</command>
+<command execution_time="6">[e,f] = log2(10)</command>
+<command execution_time="6">log2(10)</command>
+<command execution_time="7">[e,f] = log2(pi)</command>
+<command execution_time="9">[f,e] = log2(pi)</command>
+<command execution_time="8">log2(pi)</command>
+<command execution_time="8">e*f</command>
+<command execution_time="8">pow2(e,f)</command>
+<command execution_time="7">pow2(f,e)</command>
+<command error="true" execution_time="2527">num2bin</command>
+<command execution_time="2395">num2bin(10,3)</command>
+<command execution_time="10">num2bin(10,0)</command>
+<command execution_time="10">num2bin(10,1)</command>
+<command error="true" execution_time="12">num2bin(exp,1)</command>
+<command error="true" execution_time="11">num2bin(exp(),1)</command>
+<command execution_time="13">num2bin(Inf,1)</command>
+<command error="true" execution_time="2780">taylor(sin(x))</command>
+<command execution_time="35" repeat="2">sintaylor(10)</command>
+<command execution_time="9">sin(10)</command>
+<command execution_time="32">sintaylor(10)</command>
+<command execution_time="8">sin(10)</command>
+<command execution_time="11" repeat="2">sin(pi)</command>
+<command execution_time="8">sintaylor(pi)</command>
+<command execution_time="5">sin(pi)</command>
+<command execution_time="9">sin(0)</command>
+<command execution_time="8">sintaylor(0)</command>
+<command execution_time="8">sin(0)</command>
+<command execution_time="8">sin(180)</command>
+<command execution_time="7">sintaylor(0)</command>
+<command execution_time="9">sintaylor(180)</command>
+<command execution_time="9">x=pi</command>
+<command execution_time="7">y=sintaylor(x)</command>
+<command execution_time="8">err=abs(y-sin(x))/abs(sin(x))</command>
+<command execution_time="7">x=pi/4</command>
+<command execution_time="6">y=sintaylor(x)</command>
+<command execution_time="7">err=abs(y-sin(x))/abs(sin(x))</command>
+<command execution_time="7">x=pi/4</command>
+<command execution_time="7">x=pi/6</command>
+<command execution_time="7">y=sintaylor(x)</command>
+<command execution_time="7">err=abs(y-sin(x))/abs(sin(x))</command>
+<command execution_time="8">sin(x)</command>
+<command execution_time="50" repeat="2">y=sintaylor(x)</command>
+<command execution_time="6">err=abs(y-sin(x))/abs(sin(x))</command>
+<command execution_time="5">x=pi</command>
+<command execution_time="7">y=sintaylor(x)</command>
+<command execution_time="9">err=abs(y-sin(x))/abs(sin(x))</command>
+<command execution_time="6">x=pi/6</command>
+<command execution_time="47">y=sintaylor(x)</command>
+<command execution_time="13">err=abs(y-sin(x))/abs(sin(x))</command>
+<command execution_time="8">x=pi/3</command>
+<command error="true" execution_time="8">y=sintaylor(x)\</command>
+<command execution_time="11">y=sintaylor(x)</command>
+<command execution_time="7">err=abs(y-sin(x))/abs(sin(x))</command>
+<command execution_time="10">sintaylor(10*pi)</command>
+<command error="true" execution_time="99">sintayoot</command>
+<command execution_time="7">sintaylor(20*pi)</command>
+<command execution_time="8">sin(20*pi)</command>
+<command execution_time="31">sintaylor(20*pi)</command>
+<command error="true" execution_time="16">log(10,2)</command>
+<command error="true" execution_time="2992">lg(2)</command>
+<command execution_time="8">log(2)</command>
+<command execution_time="7">1144</command>
+<command execution_time="8">1144*log(2)</command>
+<command error="true" execution_time="98">vpa</command>
+</session>
+<session>
+<command time_stamp="16224007dba">%-- 3/14/2018 1:13 PM --%</command>
+<command error="true" execution_time="125" repeat="2">err_rel_i</command>
+<command execution_time="0">A</command>
+<command execution_time="0">b</command>
+<command execution_time="1860">err_rel_i</command>
+<command execution_time="16">x</command>
+<command execution_time="16">x1</command>
+<command execution_time="16">x2</command>
+<command execution_time="16">erI1</command>
+<command execution_time="0" repeat="5">err_rel_i</command>
+<command execution_time="94" repeat="3">cond_nr</command>
+<command execution_time="672" repeat="2">prob3lab3</command>
+<command execution_time="16">15^16</command>
+<command error="true" execution_time="31">recdir</command>
+<command error="true" execution_time="87">recdir(10)\</command>
+<command execution_time="20">recdir(10)</command>
+<command execution_time="0">recdir(100)</command>
+<command execution_time="0">recdir(1)</command>
+<command execution_time="0">recdir(10)</command>
+<command execution_time="16">1/11</command>
+<command execution_time="0">recdir(20)</command>
+<command execution_time="0">1/21</command>
+<command execution_time="16">recdir(30)</command>
+<command execution_time="15">recdir(100)</command>
+<command error="true" execution_time="0">100!</command>
+<command error="true" execution_time="78">factorial</command>
+<command execution_time="0">factorial(100)</command>
+<command error="true" execution_time="32">recinv</command>
+<command execution_time="0">recinv(10,10)</command>
+<command execution_time="15">recinv(100,100)</command>
+<command execution_time="0">recinv(1000,100)</command>
+<command execution_time="16">recinv(1000,1000)</command>
+<command execution_time="16">recinv(1000,10000)</command>
+<command execution_time="1219">recinv(1000,100000000)</command>
+<command execution_time="16">rex=exp(-1)</command>
+<command error="true" execution_time="1203">E=recinv(1, k)</command>
+<command execution_time="0">E=recinv(1,10)</command>
+<command execution_time="16">err=abs(E-rex)/rex</command>
+<command execution_time="15">E=recinv(1,10)</command>
+<command execution_time="15">err=abs(E-rex)/rex</command>
+<command execution_time="16">E=recinv(1,10)</command>
+<command execution_time="16">E=recinv(1,20)</command>
+<command execution_time="16">err=abs(E-rex)/rex</command>
+<command execution_time="0">E=recinv(1,15)</command>
+<command execution_time="0">err=abs(E-rex)/rex</command>
+<command execution_time="0">E=recinv(1,17)</command>
+<command execution_time="0">err=abs(E-rex)/rex</command>
+<command execution_time="16">E=recinv(1,16)</command>
+<command execution_time="0">err=abs(E-rex)/rex</command>
+<command execution_time="15">format long</command>
+<command execution_time="79">p=poly(1:20)</command>
+<command execution_time="1203">roots(p)</command>
+</session>
+<session>
+<command time_stamp="16248281830">%-- 3/21/2018 1:43 PM --%</command>
+<command error="true" execution_time="1907">limit((1+1/n)^n, n, inf)</command>
+<command error="true" execution_time="1763">f= (1 + 1/n) ^n</command>
+<command error="true" execution_time="96">f(n)=(1+1/n)^n</command>
+<command error="true" execution_time="1470">f</command>
+<command error="true" execution_time="1742">limit((1+1/x)^x, x, inf)</command>
+<command error="true" execution_time="1765">syms x</command>
+<command error="true" execution_time="1824">f:=(1 + 1/n)^n</command>
+<command error="true" execution_time="62">f(n):=(1+1/n)^n</command>
+<command error="true" execution_time="1471">f(n)=(1+1/n)^n</command>
+<command error="true" execution_time="1460">f(x)</command>
+<command error="true" execution_time="96">f(x)=sin(x)</command>
+<command execution_time="39" repeat="2">test_prob2</command>
+<command execution_time="1688">f(1)</command>
+<command error="true" execution_time="1651">limit(f,x,inf)</command>
+<command execution_time="62">f(inf)</command>
+<command error="true" execution_time="2117">limit(f(n),n,inf)</command>
+<command execution_time="53">f</command>
+<command execution_time="19">f(100000000000000)</command>
+<command execution_time="9">f(1000000000000000000)</command>
+<command error="true" execution_time="80">exp</command>
+<command error="true" execution_time="1963">epx(1)</command>
+<command execution_time="60">exp(1)</command>
+<command execution_time="8">f(1000000000000000000)</command>
+<command execution_time="16">f(8676345657657567)</command>
+<command execution_time="10">f(86763456576575677567)</command>
+<command execution_time="14">realmax</command>
+<command execution_time="10">f(realmax)</command>
+<command execution_time="8">f(10^17)</command>
+<command execution_time="7">f(10^15)</command>
+<command execution_time="8">f(10^16)</command>
+<command execution_time="7">f(10^15)</command>
+<command execution_time="6">f(10^14)</command>
+<command execution_time="9">f(10^15)</command>
+<command execution_time="7">f(10^15 - 99)</command>
+<command execution_time="7">f(10^15 - 10^14)</command>
+<command execution_time="6" repeat="2">f(10^16)</command>
+<command execution_time="90">format long</command>
+<command execution_time="8">f(10^16)</command>
+<command execution_time="9">f(10^15 - 10^14)</command>
+<command execution_time="13">f(10^15 - 10^15/9)</command>
+<command execution_time="7">f(10^14)</command>
+<command execution_time="7">f(10^13)</command>
+<command execution_time="7">1/10^15</command>
+<command execution_time="7">(1/10^15)^(10^15)</command>
+<command execution_time="63">eps</command>
+<command error="true" execution_time="1866" repeat="2">termeni</command>
+<command error="true" execution_time="1842">termeni(10)</command>
+<command error="true" execution_time="209">termeni</command>
+<command execution_time="17" repeat="2">termeni(10)</command>
+<command execution_time="6">eps</command>
+<command error="true" execution_time="92">format bin</command>
+<command error="true" execution_time="10">format binary</command>
+<command execution_time="9">2^-52</command>
+<command execution_time="9">n=2^53</command>
+<command execution_time="9">f(n)</command>
+<command execution_time="6" repeat="2">f(n-eps(n))</command>
+<command execution_time="10">f(n-1)</command>
+<command execution_time="6">eps(2^52)</command>
+<command execution_time="6">eps(2^52-1)</command>
+<command execution_time="9">eps(2^53-1)</command>
+</session>
+<session>
+<command time_stamp="1626bde5ccf">%-- 3/28/2018 12:09 PM --%</command>
+<command execution_time="54" repeat="4">test2_1</command>
+<command execution_time="424" repeat="3">test2_1b</command>
+<command execution_time="783" repeat="7">test2_2</command>
+<command error="true" execution_time="433">epx(10)</command>
+<command execution_time="6">exp(10)</command>
+<command execution_time="586" repeat="49">test2_2</command>
+<command execution_time="10">erf(h)</command>
+<command execution_time="586" repeat="7">test2_2</command>
+<command execution_time="11">(2*eps)^(1/3)</command>
+<command error="true" execution_time="488">fun1</command>
+<command execution_time="73">fun1(10)</command>
+<command error="true" execution_time="29">fun2</command>
+<command execution_time="64">fun2(10)</command>
+</session>
+<session>
+<command time_stamp="1628feeb90b">%-- 4/4/2018 12:13 PM --%</command>
+<command error="true" execution_time="925">lag(pi/18)</command>
+<command error="true" execution_time="80">lagr(pi/18)</command>
+<command error="true" execution_time="36">lagr</command>
+<command error="true" execution_time="13">lagr(pi/18)</command>
+<command execution_time="10">x=[0, pi/6, pi/4, pi/3, pi/2]</command>
+<command execution_time="14">y=[0, 1/2, sqrt(2)/2, sqrt(3)/2, 1]</command>
+<command execution_time="9">t=pi/18</command>
+<command execution_time="14">lagr(x,y,t)</command>
+<command execution_time="68">sin(t)</command>
+<command execution_time="60">t=linspace(0,pi/2,150);</command>
+<command execution_time="77">v=lagr(x,y,t)</command>
+<command execution_time="2489">plot(x,y,'o',t,sin(t),t,v)</command>
+<command execution_time="1747">legend('noduri','f','L_{m}f','Location','best')</command>
+<command execution_time="47">figure</command>
+<command execution_time="18">plot(t,abs(v-sin(t)))</command>
+<command execution_time="12">10.5*10.5</command>
+<command execution_time="7">x=[81,100,121,144]</command>
+<command execution_time="10">y=[9,10,11,12]</command>
+<command execution_time="13">v=lagr(x,y,sqrt(115))</command>
+<command execution_time="7">v=lagr(x,y,155)</command>
+<command execution_time="10">v=lagr(x,y,144)</command>
+<command execution_time="11">v=lagr(x,y,115)</command>
+<command execution_time="9">sqrt(115)</command>
+<command execution_time="16">v*v</command>
+<command execution_time="10">y=10:01:11</command>
+<command execution_time="12">y=10:0.1:11</command>
+<command error="true" execution_time="101">x=y^2</command>
+<command error="true" execution_time="14">x=y*y</command>
+<command execution_time="11">x=y.^2</command>
+<command execution_time="10">v=lagr(x,y,115)</command>
+<command execution_time="9">v*v</command>
+<command error="true" execution_time="48">Range</command>
+<command error="true" execution_time="799">range</command>
+<command execution_time="104">f=@(x)1./(1+2.^2)</command>
+<command execution_time="7">m=11;</command>
+<command execution_time="8">x=linspace(-5,5,m+1);</command>
+<command execution_time="7">y=f(x);</command>
+<command execution_time="8">t=linspace(-5,5,2000);</command>
+<command execution_time="27">v11=lagr(x,y,t)</command>
+<command execution_time="6">n=16;</command>
+<command execution_time="6">m=16;</command>
+<command execution_time="7">x=linspace(-5,5,m+1);</command>
+<command execution_time="6">y=f(x);</command>
+<command execution_time="13">v16=lagr(x,y,t);</command>
+<command error="true" execution_time="68">plot(t,f(t),v11,t,v16)</command>
+<command execution_time="855">plot(t,f(t),t,v11,t,v16)</command>
+<command error="true" execution_time="122">sin</command>
+<command error="true" execution_time="100">sinus</command>
+<command execution_time="48033">sinus(0,0)</command>
+<command error="true" execution_time="97">cosinus</command>
+<command error="true" execution_time="623">cosinus(x, err)</command>
+<command error="true" execution_time="40">cosinus(x, erf)</command>
+<command execution_time="12">cosinus(pi/4, eps)</command>
+</session>
+<session>
+<command time_stamp="162d806d30f">%-- 4/18/2018 12:12 PM --%</command>
+<command execution_time="90" repeat="3">ex1Newton</command>
+<command execution_time="13">v1,tanh(2/3)</command>
+<command execution_time="334" repeat="2">newtonRungeeg</command>
+<command execution_time="94" repeat="10">NewtonRungeCeb2</command>
+<command execution_time="98" repeat="2">ex2</command>
+<command execution_time="428">hermitRunge</command>
+<command execution_time="823" repeat="2">hermitRungeCeb2</command>
+<command error="true" execution_time="584">Cholesky</command>
+<command execution_time="690" repeat="8">t1</command>
+<command execution_time="452">cond(A)</command>
+<command execution_time="17">cond(A)*eps</command>
+<command execution_time="16">norm(R-R2)</command>
+<command execution_time="21" repeat="5">t1</command>
+<command execution_time="77">t2</command>
+<command execution_time="11">cond(A)*eps</command>
+<command execution_time="68">t2</command>
+<command execution_time="16">cond(A)*eps</command>
+<command execution_time="10">x</command>
+</session>
+<session>
+<command time_stamp="162fc0ff125">%-- 4/25/2018 12:08 PM --%</command>
+<command execution_time="2207" repeat="2">t1</command>
+<command execution_time="15">norm(P*A-L*U)</command>
+<command execution_time="2478">t1</command>
+<command execution_time="1985">t2</command>
+<command error="true" execution_time="277" repeat="4">generateMatrix</command>
+<command error="true" execution_time="2314">generateMatrix(10)</command>
+<command error="true" execution_time="186">generateMatrix</command>
+<command error="true" execution_time="35">generateMatrix(10)</command>
+<command error="true" execution_time="202">generateMatrix</command>
+<command execution_time="11">generateMatrix(10)</command>
+<command error="true" execution_time="176">generateMatrix</command>
+<command execution_time="42" repeat="5">generateMatrix(10)</command>
+<command execution_time="41" repeat="3">generateMatrix(9)</command>
+<command execution_time="9">generateMatrix(10)</command>
+<command execution_time="7">generateMatrix(9)</command>
+<command error="true" execution_time="22259" repeat="3">generateMatrix(100000)</command>
+<command execution_time="7">clear</command>
+<command execution_time="12">generateMatrix(10)</command>
+<command error="true" execution_time="11">generateMatrix(100000)\</command>
+<command error="true" execution_time="4738">generateMatrix(100000)</command>
+<command error="true" execution_time="5">=generateMatrix(100000)</command>
+<command error="true" execution_time="83">A:=generateMatrix(100000)</command>
+<command batch="4" error="true">A=generateMatrix(100000)</command>
+<command batch="4" error="true" execution_time="10009">A(1,5)</command>
+<command execution_time="2257">generateMatrix(10)</command>
+<command execution_time="17">[A,b]=generateMatrix(10)</command>
+<command execution_time="8">full(A)</command>
+<command execution_time="872">[A,b]=generateMatrix(10)</command>
+<command execution_time="11">c</command>
+<command execution_time="11">full(A)</command>
+<command execution_time="9">full(C)</command>
+<command execution_time="10">full(c)</command>
+<command execution_time="841">[A,b]=generateMatrix(10)</command>
+<command error="true" execution_time="7">full(A)\</command>
+<command execution_time="6">full(A)</command>
+<command execution_time="13">[A,b]=generateMatrix(10)</command>
+<command execution_time="13">[A,b]=generateMatrix(1000);</command>
+<command execution_time="5581">spy(A)</command>
+<command execution_time="83">[A,b]=generateMatrix(100000);</command>
+<command error="true" execution_time="2695">[x1, n1] = Jacobi(A, b, b, err, iters);</command>
+<command error="true" execution_time="19" repeat="2">[x1, n1] = Jacobi(A, b, b, erf, iters);</command>
+<command error="true" execution_time="81">Jacobi()</command>
+<command error="true" execution_time="2871">[x1, n1] = Jacobi(A, b, b, err, iters);</command>
+<command error="true" execution_time="16">[x1, n1] = Jacobi(A, b, b, erf, iters);</command>
+<command batch="5">iters = 3000;</command>
+<command batch="5" execution_time="25">err = 1e-13;</command>
+<command execution_time="4393">[x1, n1] = Jacobi(A, b, b, err, iters);</command>
+<command execution_time="68">[A,b]=generateMatrix(100);</command>
+<command execution_time="2229">[x1, n1] = Jacobi(A, b, b, err, iters);</command>
+<command execution_time="2365">[A,b]=generateMatrix(100000);</command>
+<command execution_time="2786" repeat="3">[x1, n1] = Jacobi(A, b, b, err, iters);</command>
+<command execution_time="9">n1</command>
+<command execution_time="2990">x1</command>
+<command error="true" execution_time="2562">[x2, n2] = relax(A, b, 1.0435, b, err, iters);</command>
+<command error="true" execution_time="103" repeat="3">relax()</command>
+<command error="true" execution_time="2734" repeat="2">[x2, n2] = relax(A, b, 1.0435, b, err, iters);</command>
+<command error="true" execution_time="12">relax</command>
+<command execution_time="2460" repeat="2">[x2, n2] = relax(A, b, 1.0435, b, err, iters);</command>
+<command execution_time="10">n2</command>
+<command execution_time="3248">[x2, n2] = relax(A, b, 1.2, b, err, iters);</command>
+<command execution_time="7">n2</command>
+<command execution_time="2848">[B,b]=generateMatrix(200);</command>
+<command error="true" execution_time="2907">w=relop(full(B))</command>
+<command execution_time="2409">w=relopt(full(B))</command>
+<command execution_time="3048">[A,b]=generateMatrix(100000);</command>
+<command execution_time="2401">[x2, n2] = relax(A, b, w, b, err, iters);</command>
+<command execution_time="6">n2</command>
+<command error="true" execution_time="676">taylorsin</command>
+<command error="true" execution_time="91">taylorsin(100,5)</command>
+<command execution_time="45" repeat="6">taylorsin(pi,5)</command>
+<command execution_time="11">taylorsin(pi/2,5)</command>
+<command execution_time="12">w</command>
+</session>
+<session>
+<command time_stamp="163203d7814">%-- 5/2/2018 12:44 PM --%</command>
+<command error="true" execution_time="972">mcmmpd</command>
+<command error="true" execution_time="10">t=(1900:10:2010)_</command>
+<command execution_time="103">t=(1900:10:2010)</command>
+<command error="true" execution_time="75">y=(75995,91972,105710,123200,131670,150700,179320,203210,226510,249630,281420,308790)</command>
+<command execution_time="15">y=[75995,91972,105710,123200,131670,150700,179320,203210,226510,249630,281420,308790]</command>
+<command execution_time="10">w=[1975,2010]</command>
+<command error="true" execution_time="1301">c=polyfir(x,y,3)</command>
+<command error="true" execution_time="100">c=polyfit(x,y,3)</command>
+<command execution_time="972">c=polyfit(t,y,3)</command>
+<command execution_time="104">mt=mean(t)</command>
+<command execution_time="1193">st=std(t)</command>
+<command execution_time="13">s=(t-mt)/st</command>
+<command error="true" execution_time="984">xs=(x-mt)/st</command>
+<command execution_time="7">x=(1890:1:2019);</command>
+<command execution_time="19">xs=(x-mt)/st</command>
+<command execution_time="19">cs=polyfit(s,y,3)</command>
+<command execution_time="64">c2=mcmmpd(s,y,3)</command>
+<command execution_time="39">zs=polyval(cs,xs);</command>
+<command execution_time="7">est=polyval(cs,(w-mt)/st)</command>
+<command execution_time="2702">prob4mcmmpd</command>
+<command error="true" execution_time="1487" repeat="5">pAsteroid</command>
+<command execution_time="13">erel</command>
+<command execution_time="11">coef</command>
+<command execution_time="1570" repeat="12">pAsteroid</command>
+<command execution_time="11">A=[[1,1,1],[1,1,0],[0,1,1],[1,0,0],[0,01]]</command>
+<command execution_time="9">A=[1,1,1;1,1,0;0,1,1;1,0,0;0,0,1]</command>
+<command execution_time="20" repeat="6">prob3Masuratoare</command>
+</session>
+<session>
+<command time_stamp="1634420ad9b">%-- 5/9/2018 11:59 AM --%</command>
+<command execution_time="1211" repeat="39">test1</command>
+<command error="true" execution_time="43">ceb_nodes1</command>
+<command execution_time="1840" repeat="11">test1</command>
+<command execution_time="2010">test</command>
+<command execution_time="1686">testSpline</command>
+<command execution_time="1957">test1</command>
+<command execution_time="1809" repeat="9">testSpline</command>
+<command execution_time="2050" repeat="12">f2</command>
+<command execution_time="8">clear</command>
+<command execution_time="1814" repeat="5">f2</command>
+<command error="true" execution_time="1814">ylim(-50,50)</command>
+<command execution_time="1695">f2</command>
+<command error="true" execution_time="14">ylim(-50,50)</command>
+<command execution_time="1910">ylim([-50,50])</command>
+<command execution_time="442">type humps</command>
+<command execution_time="13">type ceb_nodes1</command>
+</session>
+<session>
+<command time_stamp="1636837afc4">%-- 5/16/2018 12:11 PM --%</command>
+<command error="true" execution_time="614">Romberg</command>
+<command execution_time="53">f= @(x) 2*x+1</command>
+<command error="true" execution_time="519">Romberg(f,1,10,e-7,100)</command>
+<command execution_time="14">eps</command>
+<command execution_time="19">Romberg(f,1,10,1e-7,100)</command>
+<command execution_time="16">Romberg(f,1,9)</command>
+<command error="true" execution_time="33">e</command>
+<command error="true" execution_time="15">exp</command>
+<command execution_time="80">exp(2)</command>
+<command execution_time="7">exp(1)</command>
+<command error="true" execution_time="23" repeat="12">integrale</command>
+<command error="true" execution_time="100">Gauss_Ceb1</command>
+<command batch="6" execution_time="4373" repeat="31">integrale</command>
+</session>
+</history>

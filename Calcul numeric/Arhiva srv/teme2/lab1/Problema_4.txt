@@ -1,0 +1,16 @@
+taylor(2*(int(exp(-t^2), t = 0 .. x))/sqrt(Pi), x = 0, 8);
+pln := convert(%, polynom);
+eval(pln, x = 1);
+evalf(%);
+                          0.8382245242
+.8427;
+                             0.8427
+taylor(exp(-t^2), t = 0, 40);
+taylor(2*(int(1-t^2+(1/2)*t^4-(1/6)*t^6+(1/24)*t^8-(1/120)*t^10+(1/720)*t^12-(1/5040)*t^14+(1/40320)*t^16-(1/362880)*t^18+(1/3628800)*t^20, t = 0 .. x))/sqrt(Pi), x = 0, 8);
+pln2 := convert(%, polynom);
+eval(pln2, x = 1);
+                               52    
+                           ----------
+                                (1/2)
+                           35 Pi     
+evalf(%);
